@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Learner{
+  border: 1px solid black;
+  border-radius: 2rem;
+  text-align: center;
+  margin: 10px;
+  background-color: lightgrey;
+  font-size: x-large;
+}
+
+.Learner h1 {
+  text-transform: uppercase;
+  
+}
+
+.Learner h2 {
+  text-decoration: underline;
+}
+
+.Learner li {
+  list-style-type: none;
+}
+
+.Learner p {
+  text-align: left;
+  margin-left: 25px;
+}
